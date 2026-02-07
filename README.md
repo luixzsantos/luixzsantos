@@ -60,7 +60,7 @@ Olá! Sou um desenvolvedor apaixonado por **Python**, **desenvolvimento web** e 
 </div>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=for-the-badge)
+  <img src="https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=for-the-badge" height="40" alt="machine learning logo" />
 
 </div>
 
