@@ -36,9 +36,9 @@ Olá! Sou um desenvolvedor apaixonado por **Python**, **desenvolvimento web** e 
 
 ### 📫 Connect with me | Conecte-se comigo
 
-- [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/)  
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/luiz-fernando-santos-875a72370/)  
+- [GitHub](https://github.com/luixzsantos)  
+- [Email](luizfernandotec.link2@gmail.com)
 
 ---
 
