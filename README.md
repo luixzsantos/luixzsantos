@@ -10,14 +10,23 @@ Olá! Sou um desenvolvedor apaixonado por **Python**, **desenvolvimento web** e 
 - 🐍 **Python** – scripting, automation & data analysis  
   Python – scripts, automação e análise de dados
 
+⚡ **FastAPI** – high-performance APIs & modern web services
+- FastAPI – APIs de alta performance e serviços web modernos
+
 - 🌐 **Django** – building robust and scalable web applications  
   Django – criação de aplicações web robustas e escaláveis
+
+💻 **PyCharm** – professional IDE for efficient Python development
+-  PyCharm – IDE profissional para desenvolvimento Python eficiente
 
 - 🤖 **Selenium** – automated testing & web scraping  
   Selenium – automação de testes e web scraping
 
 - 📝 **HTML** – structuring and creating interactive web interfaces  
   HTML – estruturação e criação de interfaces web interativas
+
+📓 **Jupyter** – interactive notebooks for data analysis & visualization
+- Jupyter – notebooks interativos para análise e visualização de dados
 
 - 📊 **Machine Learning** – predictive modeling & data insights  
   Machine Learning – modelagem preditiva e insights a partir de dados
