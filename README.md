@@ -1,71 +1,35 @@
-## 👋 About Me | Sobre Mim
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Hi there! I'm a passionate developer focused on **Python**, **web development**, and **Machine Learning**.  
-Olá! Sou um desenvolvedor apaixonado por **Python**, **desenvolvimento web** e **Machine Learning**.
+###
 
----
+<p align="left">My name is Luiz Fernando and I'm a Full Stack Devevoper</p>
 
-### 💻 Skills | Habilidades
+###
 
-- 🐍 **Python** – scripting, automation & data analysis  
-  Python  scripts, automação e análise de dados
+<p align="left">🚀 About Me<br>Full Stack Developer in training, focused on JavaScript, Node.js, and React. I build modern, scalable web applications using clean code practices, Git version control, APIs, and databases.</p>
 
-- ⚡ **FastAPI** – high-performance APIs & modern web services
-  Django - criação de aplicações web robustas e escaláveis
+###
 
-- 💻 **PyCharm** – professional IDE for efficient Python development
-  PyCharm – IDE profissional para desenvolvimento Python eficiente
+<h3 align="left">Coding with</h3>
 
-- 🤖 **Selenium** – automated testing & web scraping  
-  Selenium  automação de testes e web scraping
+###
 
-- 📝 **HTML** - structuring and creating interactive web interfaces  
-  HTML – estruturação e criação de interfaces web interativas
-
-- 📓 **Jupyter** – interactive notebooks for data analysis & visualization
- Jupyter  notebooks interativos para análise e visualização de dados
-
-- 📊 **Machine Learning** – predictive modeling & data insights  
-  Machine Learning - modelagem preditiva e insights a partir de dados
-
----
-
-### 🚀 About Me | Sobre Mim
-
-- Always exploring new technologies and improving my coding skills  
-  Sempre explorando novas tecnologias e aprimorando minhas habilidades de programação  
-
-- Open to collaborations, projects, and exciting challenges  
-  Aberto a colaborações, projetos e desafios empolgantes
-
----
-
-### 📫 Connect with me | Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/luiz-fernando-santos-875a72370/)  
-- [GitHub](https://github.com/luixzsantos)  
-- [Email](luizfernandotec.link2@gmail.com)
-
----
-
-### 🔧 Tools & Technologies | Ferramentas & Tecnologias
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-  <img src="https://img.shields.io/badge/-Machine%20Learning-F7DF1E?style=for-the-badge" height="40" alt="machine learning logo" />
 
-</div>
-
-
+###
