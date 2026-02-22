@@ -32,7 +32,9 @@
 
 ###
 
-<img align="left" height="200" src="https://imgs.search.brave.com/Dow0GOkhCsav-tP0NuOKBRe3kpKnqCndAosuPy-arpA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OUV5S3BLNmEzV1FB/QUFBTS9za2VsZXQt/YmFuZy1zaGllbGQt/bWVtZS1za2VsZXQt/bWVtZS5naWY.gif"  />
+<div align="center">
+  <img height="200" src="https://imgs.search.brave.com/Dow0GOkhCsav-tP0NuOKBRe3kpKnqCndAosuPy-arpA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OUV5S3BLNmEzV1FB/QUFBTS9za2VsZXQt/YmFuZy1zaGllbGQt/bWVtZS1za2VsZXQt/bWVtZS5naWY.gif"  />
+</div>
 
 ###
 
