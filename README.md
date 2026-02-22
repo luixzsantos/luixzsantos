@@ -48,6 +48,12 @@
 
 ###
 
-<p align="left">I’m a student and self-taught Full Stack Engineer driven by performance, scalability, and modern web architecture.<br><br>I work with technologies such as:<br><br>• JavaScript & TypeScript<br>• Node.js & RESTful APIs<br>• React & Next.js<br>• HTML, CSS & Modern Layout Systems (Flexbox)<br>• Docker & Git<br>• SQL and NoSQL databases<br><br>I design and develop end-to-end web systems — from building responsive and intuitive front-end interfaces to engineering secure, high-performance backend services.<br><br>Focused on clean architecture, maintainable code, and production-ready standards.<br>Continuously learning, building, and refining my craft.</p>
+<p align="left">I’m an Electrical Engineering student at UNISAGRADO and a self-taught Full Stack Engineer driven by performance, scalability, and modern web architecture.<br><br>I work with technologies such as:<br><br>• JavaScript & TypeScript<br>• Node.js & RESTful APIs<br>• React & Next.js<br>• HTML, CSS & Modern Layout Systems (Flexbox)<br>• Docker & Git<br>• SQL and NoSQL databases<br><br>I design and develop end-to-end web systems — from building responsive and intuitive front-end interfaces to engineering secure, high-performance backend services.<br><br>Focused on clean architecture, maintainable code, and production-ready standards.<br>Continuously learning, building, and refining my craft.<br>I work with technologies such as:<br><br>• JavaScript & TypeScript<br>• Node.js & RESTful APIs<br>• React & Next.js<br>• HTML, CSS & Modern Layout Systems (Flexbox)<br>• Docker & Git<br>• SQL and NoSQL databases<br><br>I design and develop end-to-end web systems — from building responsive and intuitive front-end interfaces to engineering secure, high-performance backend services.<br><br>Focused on clean architecture, maintainable code, and production-ready standards.<br>Continuously learning, building, and refining my craft.</p>
+
+###
+
+<div align="center">
+  <img src="https://www.unisagrado.edu.br/custom/2008/uploads/2019/11/logo-unisagrado.png" height="70" alt="Unisagrado logo" />
+</div>
 
 ###
