@@ -32,16 +32,20 @@
 
 ###
 
-<h2 align="center">About Me</h2>
+<img align="left" height="200" src="https://imgs.search.brave.com/Dow0GOkhCsav-tP0NuOKBRe3kpKnqCndAosuPy-arpA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OUV5S3BLNmEzV1FB/QUFBTS9za2VsZXQt/YmFuZy1zaGllbGQt/bWVtZS1za2VsZXQt/bWVtZS5naWY.gif"  />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
+
+<h2 align="left">About Me</h2>
 
 ###
 
 <p align="left">I’m a student and self-taught Full Stack Engineer driven by performance, scalability, and modern web architecture.<br><br>I work with technologies such as:<br><br>• JavaScript & TypeScript<br>• Node.js & RESTful APIs<br>• React & Next.js<br>• HTML, CSS & Modern Layout Systems (Flexbox)<br>• Docker & Git<br>• SQL and NoSQL databases<br><br>I design and develop end-to-end web systems — from building responsive and intuitive front-end interfaces to engineering secure, high-performance backend services.<br><br>Focused on clean architecture, maintainable code, and production-ready standards.<br>Continuously learning, building, and refining my craft.</p>
-
-###
-
-<div align="center">
-  <img height="150" src="https://imgs.search.brave.com/Dow0GOkhCsav-tP0NuOKBRe3kpKnqCndAosuPy-arpA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OUV5S3BLNmEzV1FB/QUFBTS9za2VsZXQt/YmFuZy1zaGllbGQt/bWVtZS1za2VsZXQt/bWVtZS5naWY.gif"  />
-</div>
 
 ###
