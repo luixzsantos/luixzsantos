@@ -52,8 +52,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://www.unisagrado.edu.br/custom/2008/uploads/2019/11/logo-unisagrado.png" height="70" alt="Unisagrado logo" />
-</div>
-
 ###
