@@ -76,7 +76,8 @@ Experience with enterprise-grade distributions and security monitoring.
 
 ## 📫 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/luiz-fernando-araujo-santos-875a72370" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    
   </a>
 </p>
