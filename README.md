@@ -16,7 +16,7 @@
 ### 🚀 Looking for Opportunities
 > [!IMPORTANT]
 > **Available for Internship or Freelance Projects.**
-> I am currently seeking professional opportunities to apply my skills in **Cybersecurity (Red/Blue Team)** and **Software Development (Java/Node/C)**. Let's connect!
+> I am currently seeking professional opportunities to apply my skills in **Cybersecurity (Red/Blue Team)** and **Software Development (Java/C#/Python)**. Let's connect!
 
 ---
 
@@ -35,13 +35,6 @@ I focus on threat detection, log analysis, and infrastructure hardening mapped t
   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rocky-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
-
-**Blue Team Skills:**
-| Skill | Description | Focus |
-| :--- | :--- | :--- |
-| **Detection Engineering** | Creating rules based on MITRE | Wazuh / Sigma Rules |
-| **Log Analysis** | Analyzing system & network logs | Incident Detection |
-| **OS Hardening** | Securing RHEL/Rocky Linux 9 | CIS Benchmarks |
 
 ---
 
@@ -62,15 +55,17 @@ Focused on vulnerability assessment, exploitation, and adversary emulation.
 
 Developing secure-by-design applications and automation scripts.
 
-**Backend & Automation:**
+**Backend & Heavyweight Languages:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
-**Frontend & Scripting:**
+**Frontend & Web Development:**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -80,19 +75,10 @@ Developing secure-by-design applications and automation scripts.
 
 ---
 
-### 🎯 Research & Methodologies
-
-* **Purple Teaming:** Using offensive insights to build better defensive rules in **Wazuh**.
-* **Secure Coding:** Implementing security best practices in **Java** and **JavaScript** (OWASP).
-* **Low-Level Security:** Using **C** for understanding memory management and binary exploitation.
-* **Linux Security:** Hardening RHEL-based systems (**Rocky Linux 9**) for production.
-
----
-
 ### 📊 GitHub Stats
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luixzsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixzsantos&layout=compact&theme=tokyonight&hide=html,css&langs_count=4" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixzsantos&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" />
 </p>
 
 ---
