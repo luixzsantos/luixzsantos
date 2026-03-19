@@ -1,55 +1,73 @@
-<h1 align="center">Hi, I’m Luiz Fernando</h1>
+# ⚡ [Seu Nome ou Nick] | Offensive Security Researcher 🛡️
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Active%20Learning-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Pentest%20%26%20AppSec-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Main_Tools-Nmap%20%7C%20Wazuh%20%7C%20Burp-blueviolet?style=flat-square" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-</div>
+> [!CAUTION]
+> **Ethical Hacking Warning:** Todo o conteúdo e projetos neste perfil são destinados apenas a fins educacionais e de pesquisa de segurança. O uso de ferramentas e técnicas sem autorização prévia é ilegal e antiético.
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-</div>
+### 🛠️ Cyber Security Arsenal
 
-###
+Nesta seção, foco em ferramentas de análise, monitoramento e exploração baseada no **OWASP Top 10**.
 
-<div align="center">
-  <img height="200" src="https://imgs.search.brave.com/Dow0GOkhCsav-tP0NuOKBRe3kpKnqCndAosuPy-arpA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OUV5S3BLNmEzV1FB/QUFBTS9za2VsZXQt/YmFuZy1zaGllbGQt/bWVtZS1za2VsZXQt/bWVtZS5naWY.gif"  />
-</div>
+| Tool | Category | Status |
+| :--- | :--- | :--- |
+| **Nmap** | Network Discovery & Recon | 🟢 Advanced |
+| **Wazuh** | SIEM / XDR / Threat Detection | 🟡 Intermediate |
+| **Burp Suite** | Web Application Security | 🟢 Advanced |
+| **Metasploit** | Exploitation Framework | 🟡 Intermediate |
+| **OWASP ZAP** | DAST & Vulnerability Scanning | 🟢 Advanced |
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
+### 💻 Programming & Tech Stack
 
-###
+Desenvolvo scripts para automação de tarefas e análise de código (SAST).
 
-<h2 align="left">About Me</h2>
+**Core Languages:**
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
 
-###
+**Web Technologies (AppSec):**
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<p align="left">I’m an Electrical Engineering student at UNISAGRADO and a self-taught Full Stack Engineer driven by performance, scalability, and modern web architecture.<br><br>I work with technologies such as:<br><br>• JavaScript & TypeScript<br>• Node.js & RESTful APIs<br>• React & Next.js<br>• HTML, CSS & Modern Layout Systems (Flexbox)<br>• Docker & Git<br>• SQL and NoSQL databases<br><br>I design and develop end-to-end web systems — from building responsive and intuitive front-end interfaces to engineering secure, high-performance backend services.<br><br>Focused on clean architecture, maintainable code, and production-ready standards.<br>Continuously learning, building, and refining my craft.<br>I work with technologies such as:<br><br>• JavaScript & TypeScript<br>• Node.js & RESTful APIs<br>• React & Next.js<br>• HTML, CSS & Modern Layout Systems (Flexbox)<br>• Docker & Git<br>• SQL and NoSQL databases<br><br>I design and develop end-to-end web systems — from building responsive and intuitive front-end interfaces to engineering secure, high-performance backend services.<br><br>Focused on clean architecture, maintainable code, and production-ready standards.<br>Continuously learning, building, and refining my craft.</p>
+---
 
-###
+### 🎯 Research & Methodologies
 
-###
+* **Web Hacking:** Exploração profunda de falhas do **OWASP Top 10** (SQLi, XSS, IDOR, SSRF).
+* **Networking:** Análise de tráfego e enumeração de serviços com **Nmap**.
+* **Blue Team Integration:** Implementação e tuning de regras no **Wazuh** para detecção de anomalias.
+* **Scripting:** Criação de exploits em Python e automação de recon.
+
+---
+
+### 📊 GitHub Stats & Training
+<p align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+<p align="left">
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seu-email@dominio.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
