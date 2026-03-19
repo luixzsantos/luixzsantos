@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Status-Active%20Learning-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Purple_Teaming-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/OS-Rocky_Linux_9-10B981?style=flat-square&logo=rocky-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-orange?style=flat-square" />
 </p>
 
 ### 🎓 Academic Background
