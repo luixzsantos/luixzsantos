@@ -84,15 +84,15 @@ Developing secure-by-design applications and automation scripts.
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luixzsantos-HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixzsantos&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/luiz-fernando-araujo-santos-875a72370" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
