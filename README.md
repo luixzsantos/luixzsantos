@@ -3,31 +3,42 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active%20Learning-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Pentest%20%26%20AppSec-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Main_Tools-Nmap%20%7C%20Wazuh%20%7C%20Burp-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/OS-Linux%20User-black?style=flat-square&logo=linux" />
 </p>
 
+### 🎓 Academic Background
+* **B.S. in Electrical Engineering** ⚡
+* **Associate Degree in Cyber Defense** 🛡️
+
 > [!CAUTION]
-> **Ethical Hacking Warning:** Todo o conteúdo e projetos neste perfil são destinados apenas a fins educacionais e de pesquisa de segurança. O uso de ferramentas e técnicas sem autorização prévia é ilegal e antiético.
+> **Ethical Hacking Warning:** All content and projects in this profile are intended strictly for educational and security research purposes. Using these tools and techniques without prior authorization is illegal and unethical.
 
 ---
 
-### 🛠️ Cyber Security Arsenal
+### 🛠️ Cyber Security Arsenal & OS
 
-Nesta seção, foco em ferramentas de análise, monitoramento e exploração baseada no **OWASP Top 10**.
+In this section, I focus on analysis, monitoring, and exploitation tools based on the **OWASP Top 10**.
 
-| Tool | Category | Status |
+**Operational & Monitoring:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" />
+</p>
+
+**Offensive Toolset:**
+| Tool | Category | Focus |
 | :--- | :--- | :--- |
-| **Nmap** | Network Discovery & Recon | 🟢 Advanced |
-| **Wazuh** | SIEM / XDR / Threat Detection | 🟡 Intermediate |
-| **Burp Suite** | Web Application Security | 🟢 Advanced |
-| **Metasploit** | Exploitation Framework | 🟡 Intermediate |
-| **OWASP ZAP** | DAST & Vulnerability Scanning | 🟢 Advanced |
+| **Nmap** | Network Discovery | Port Scanning & Recon |
+| **Burp Suite** | Web Security | Intercepting Proxy / OWASP Top 10 |
+| **OWASP ZAP** | DAST | Vulnerability Scanning |
+| **Bash/Zsh** | Scripting | Linux Automation & Exploit Dev |
 
 ---
 
 ### 💻 Programming & Tech Stack
 
-Desenvolvo scripts para automação de tarefas e análise de código (SAST).
+Developing scripts for task automation and Static Analysis (SAST).
 
 **Core Languages:**
 <p align="left">
@@ -47,27 +58,25 @@ Desenvolvo scripts para automação de tarefas e análise de código (SAST).
 
 ### 🎯 Research & Methodologies
 
-* **Web Hacking:** Exploração profunda de falhas do **OWASP Top 10** (SQLi, XSS, IDOR, SSRF).
-* **Networking:** Análise de tráfego e enumeração de serviços com **Nmap**.
-* **Blue Team Integration:** Implementação e tuning de regras no **Wazuh** para detecção de anomalias.
-* **Scripting:** Criação de exploits em Python e automação de recon.
+* **Industrial Security & EE:** Exploring the intersection between Electrical Engineering and Cyber Security (ICS/SCADA).
+* **Linux Hardening:** Server administration and security configurations.
+* **Web Hacking:** Deep dives into **OWASP Top 10** vulnerabilities (SQLi, XSS, IDOR, SSRF).
+* **Blue Team Integration:** Rule implementation and tuning in **Wazuh** for anomaly detection.
+* **Automation:** Crafting exploits and recon automation using Python and Shell Script.
 
 ---
 
-### 📊 GitHub Stats & Training
+### 📊 GitHub Stats
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME-HERE&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@dominio.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
