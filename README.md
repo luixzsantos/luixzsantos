@@ -31,7 +31,6 @@ I focus on threat detection, log analysis, and infrastructure hardening.
 <p align="left">
   <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rocky-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EFC021?style=for-the-badge&logo=suricata&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
