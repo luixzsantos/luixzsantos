@@ -53,9 +53,7 @@ Focused on vulnerability assessment, exploitation, and adversary emulation.
 
 ### 💻 Software Development Stack
 
-Developing secure-by-design applications and automation scripts with original technologies.
-
-**Backend & Programming:**
+**Backend & Programming Languages:**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -65,7 +63,7 @@ Developing secure-by-design applications and automation scripts with original te
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 </p>
 
-**Web Technologies:**
+**Frontend & Web Tech:**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -73,6 +71,15 @@ Developing secure-by-design applications and automation scripts with original te
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+---
+
+### 🎯 Research & Methodologies
+
+* **Purple Teaming:** Using offensive insights to build better defensive rules in **Wazuh**.
+* **Secure Coding:** Implementing security best practices in **Java** and **JavaScript** (OWASP).
+* **Low-Level Security:** Using **C** for understanding memory management and binary exploitation.
+* **Linux Security:** Hardening RHEL-based systems (**Rocky Linux 9**) for production.
 
 ---
 
