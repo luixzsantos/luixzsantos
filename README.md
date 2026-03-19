@@ -3,7 +3,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active%20Learning-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Purple_Teaming-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/OS-Linux%20User-black?style=flat-square&logo=linux" />
+  <img src="https://img.shields.io/badge/OS-Rocky_Linux_9-10B981?style=flat-square&logo=rocky-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framework-MITRE%20ATT%26CK-orange?style=flat-square" />
 </p>
 
 ### 🎓 Academic Background
@@ -12,10 +13,15 @@
 
 ---
 
+### 👤 About Me
+I am a **Purple Teamer** and **Full Stack Engineer** dedicated to the intersection of high-performance development and proactive defense. With a background in **Electrical Engineering**, I apply analytical rigor to build secure systems and identify architectural vulnerabilities.
+
+---
+
 ### 🚀 Looking for Opportunities
 > [!IMPORTANT]
 > **Available for Internship or Freelance Projects.**
-> I am currently seeking professional opportunities to apply my skills in **Cybersecurity (Red/Blue Team)** and **Software Development**. Let's connect!
+> I am looking for roles where I can apply my expertise in **Java/Spring Boot**, **Python Automation**, and **Adversary Emulation**.
 
 ---
 
@@ -24,35 +30,32 @@
 
 ---
 
-### 🛡️ Defensive Security (Blue Team)
+### 🛡️ Purple Teaming & Red Team Operations
 
-I focus on threat detection, log analysis, and infrastructure hardening mapped to **MITRE ATT&CK®**.
+I bridge the gap between offensive tactics and defensive strategy using the **MITRE ATT&CK®** matrix.
 
-**Monitoring & SIEM:**
+**⚔️ Red Teaming (Offensive):**
+* **Adversary Emulation:** Simulating real-world attack vectors to test organizational resilience.
+* **Vulnerability Assessment:** Deep dives into the **OWASP Top 10**.
+* **Tools:** Kali Linux, Nmap, Burp Suite Professional, Metasploit.
+
+**🛡️ Blue Teaming (Defensive):**
+* **SIEM & Monitoring:** Advanced management of **Wazuh** for log correlation.
+* **Detection Engineering:** Developing custom detection rules for Red Team activities.
+* **OS Hardening:** Expert-level configuration of **Rocky Linux 9 (RHEL-based)**.
+
 <p align="left">
   <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rocky-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
----
-
-### ⚔️ Offensive Security (Red Team)
-
-Focused on vulnerability assessment, exploitation, and adversary emulation.
-
-**Offensive Toolset:**
-<p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-43853D?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rocky_Linux_9-10B981?style=for-the-badge&logo=rocky-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 ---
 
 ### 💻 Software Development Stack
 
-**Backend & Programming Languages:**
+**Backend & Core Languages:**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -65,6 +68,7 @@ Focused on vulnerability assessment, exploitation, and adversary emulation.
 **Frontend & Web Tech:**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
