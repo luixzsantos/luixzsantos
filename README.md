@@ -84,7 +84,7 @@ Developing secure-by-design applications and automation scripts.
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luixzsantos-HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luixzsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixzsantos&layout=compact&theme=tokyonight" />
 </p>
 
