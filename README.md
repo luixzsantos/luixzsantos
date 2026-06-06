@@ -1,11 +1,11 @@
 <h1 align="center">Luiz Fernando Araujo Santos</h1>
 
 <p align="center">
-  <strong>Cibersegurança (Red Team) · Engenharia Elétrica · Desenvolvimento web</strong>
+  <strong>**Engenharia Elétrica · Desenvolvimento Web & Backend · Linux & Red Team**</strong>
 </p>
 
 <p align="center">
-  <em>Detecto ameaças, construo sistemas e entendo ataques por dentro.</em>
+  <em>Exploro vulnerabilidades, automatizo sistemas e domino o código por dentro para entender como ele quebra.</em>
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@ Sou focado no desenvolvimento de soluções web modernas e na administração av
 
 Minha verdadeira paixão na segurança está no **Red Team**: amo entender como os sistemas funcionam por dentro, desvendar falhas de lógica e quebrar barreiras em ambientes controlados. Para mim, dominar o Linux e construir aplicações web completas (do front ao back) são os pilares fundamentais tanto para criar softwares incríveis quanto para entender exatamente como defendê-los ou testar seus limites.
 
-- 🔴 **Red Team (básico):** Pentest em ambiente controlado, reconhecimento e exploração de vulnerabilidades web (Burp Suite / Caido)
+- 🔴 **Red Team:** Pentest em ambiente controlado, reconhecimento e exploração de vulnerabilidades web (Burp Suite / Caido)
 - 🌐 **Desenvolvimento Web:** Experiência com arquiteturas modernas utilizando JavaScript/TypeScript (Next.js, Node.js, Express.js).
 - 🔬 **Malware & RE:** Engenharia reversa e análise de binários (Assembly/C++)
-- 🐍 **Backend:** Python (Django/Flask/FastAPI) — Javascript (Node/Express) 
+- 🐍 **Backend:**  Javascript (Typescript/Node/Express) - Python (Django/Flask/FastAPI)
 - ⚙️ **Infra:** Docker, Linux, Bash/Shell
 
 ---
