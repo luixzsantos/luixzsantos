@@ -64,5 +64,4 @@ My true passion in security lies within the **Red Team**: I love understanding h
 
 <p align="center">
   <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
-  <a href="https://soundboardguys.com/blog/skeleton-banging-shield-meme-explained" target="_blank">💀 Only high-frequency banging here</a>
-</p>
+
