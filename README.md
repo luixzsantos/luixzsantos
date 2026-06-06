@@ -10,22 +10,21 @@
 
 <p align="center">
   <a href="mailto:luizfernandotec.link2@gmail.com">📧 Email</a> ·
-  <a href="https://www.linkedin.com/in/matheus-ventura-a336992b2/">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/luixzsantos/">💼 LinkedIn</a>
 </p>
 
 ---
 
 ## Sobre mim
 
-Estudante de **Engenharia de Software** (6º semestre — IDP) com foco em **segurança defensiva** e **desenvolvimento backend**.
-Construo ferramentas, analiso ameaças e estudo como sistemas são comprometidos — para poder defendê-los melhor.
-Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e aplicar isso na defesa.
+Sou focado no desenvolvimento de soluções web modernas e na administração avançada de sistemas operacionais. Utilizo o pensamento analítico e estruturado para mapear problemas complexos em códigos eficientes, limpos e escaláveis.
+
+Minha verdadeira paixão na segurança está no **Red Team**: amo entender como os sistemas funcionam por dentro, desvendar falhas de lógica e quebrar barreiras em ambientes controlados. Para mim, dominar o Linux e construir aplicações web completas (do front ao back) são os pilares fundamentais tanto para criar softwares incríveis quanto para entender exatamente como defendê-los ou testar seus limites.
 
 - 🔴 **Red Team (básico):** Pentest em ambiente controlado, reconhecimento e exploração de vulnerabilidades web (Burp Suite / Caido)
 - 🌐 **Desenvolvimento Web:** Experiência com arquiteturas modernas utilizando JavaScript/TypeScript (Next.js, Node.js, Express.js).
-- 🔐 **AppSec:** OWASP Top 10, JWT/RBAC, hardening e controle de acesso
 - 🔬 **Malware & RE:** Engenharia reversa e análise de binários (Assembly/C++)
-- 🐍 **Backend:** Python (Django/Flask/FastAPI) — Javascript (Node.js) 
+- 🐍 **Backend:** Python (Django/Flask/FastAPI) — Javascript (Node/Express) 
 - ⚙️ **Infra:** Docker, Linux, Bash/Shell
 
 ---
@@ -53,13 +52,12 @@ Tenho contato com **Red Team** o suficiente pra entender o lado do atacante e ap
 
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?logo=burpsuite&logoColor=white&style=flat-square)
 ![Caido](https://img.shields.io/badge/-Caido-6C47FF?logo=caido&logoColor=white&style=flat-square)
+![Wazuh](https://img.shields.io/badge/-Wazuh-00A9E0?logo=wazuh&logoColor=white&style=flat-square)
 
 **🛡️Segurança & Blue Team**
 
-![Wazuh](https://img.shields.io/badge/-Wazuh-005571?logo=wazuh&logoColor=white&style=flat-square)
 ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-DC143C?logo=mitre&logoColor=white&style=flat-square)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white&style=flat-square)
-![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white&style=flat-square)
 
 
