@@ -24,7 +24,7 @@ My primary stack is JavaScript and TypeScript, working across frontend, backend,
 Beyond development, I have a strong interest in Linux, networking, and cybersecurity.
 
 - 🚀 Full Stack Development with React, Next.js, Node.js, Express.js, JavaScript, TypeScript
-- ⚡ Backend APIs and scalable architectures
+- 🐍 Backend APIs and scalable architectures
 - 🗄️ PostgreSQL and SQL databases
 - 🐧 Linux system and terminal workflows
 - 🔴 Cybersecurity and Red Team fundamentals
@@ -61,8 +61,11 @@ Beyond development, I have a strong interest in Linux, networking, and cybersecu
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
-### Security
+### Cybersecurity and Red Team
 
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=portswigger&logoColor=white&style=flat-square)
 ![Caido](https://img.shields.io/badge/-Caido-6C47FF?logo=caido&logoColor=white&style=flat-square)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?logo=tryhackme&logoColor=white&style=flat-square)
+
+<p align="center">
+  <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
