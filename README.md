@@ -23,12 +23,12 @@ My primary stack is JavaScript and TypeScript, working across frontend, backend,
 
 Beyond development, I have a strong interest in Linux, networking, and cybersecurity.
 
-- 🚀 Full Stack Development with React, Next.js, Node.js, Express.js, JavaScript, TypeScript
+- 💻 Full Stack Development with React, Next.js, Node.js, Express.js, JavaScript, TypeScript
 - 🐍 Backend APIs and scalable architectures
 - 🗄️ PostgreSQL and SQL databases
 - 🐧 Linux system and terminal workflows
 - 🔴 Cybersecurity and Red Team fundamentals
-- 🔧 Git, Docker, and modern development workflows
+- ⚙️ Infra:Git, Docker, and modern development workflows
 
 ---
 
