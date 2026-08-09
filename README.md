@@ -1,76 +1,326 @@
 <h1 align="center">Luiz Fernando Araujo Santos</h1>
 
 <p align="center">
-  <strong>Electrical & Electronics Engineering | Embedded Systems | C++ | Python | Linux | Software Development
-
-</strong>
+  <strong>Electrical & Electronics Engineering</strong> · 
+  <strong>Embedded Systems</strong> · 
+  <strong>Automation</strong> · 
+  <strong>Cybersecurity</strong>
 </p>
 
 <p align="center">
-  <em>Building scalable web applications, exploring system internals, and continuously improving through technology.</em>
-</p>
-
-<p align="center">
-  <a href="mailto:luizfernandotec.link2@gmail.com">📧 Email</a> ·
-  <a href="https://www.linkedin.com/in/luixzsantos/" target="_blank">💼 LinkedIn</a>
+  <a href="mailto:luizfernandotec.link2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/luixzsantos">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/luixzsantos">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## About me
+<h2>About me</h2>
 
-I am an Electrical and Electronics Engineering student focused on embedded systems, automation, control systems, software development, and cybersecurity.
+<p>
+I am an <strong>Electrical and Electronics Engineering student</strong> at UNISAGRADO, interested in the intersection between <strong>hardware and software</strong>.
+</p>
 
-My main interests are the intersection between hardware and software, with a focus on C++, Python, embedded programming, automation, and low-level systems.
+<p>
+My main focus is on <strong>embedded systems, C++, automation, control systems, and low-level programming</strong>, while also exploring <strong>Python, Linux, networking, and cybersecurity</strong>.
+</p>
 
-I enjoy building practical projects, studying how systems work internally, and continuously improving my knowledge through hands-on experimentation.
+<p>
+I enjoy building practical projects, understanding how systems work internally, and continuously improving my knowledge through hands-on experimentation.
+</p>
 
-Beyond engineering and development, I have a strong interest in Linux, networking, cybersecurity, security research, and systems architecture.
+<table>
+<tr>
+<td>⚡</td>
+<td><strong>Electrical & Electronics Engineering</strong></td>
+</tr>
 
--⚡ Electrical and Electronics Engineering student at UNISAGRADO
--🔌 Embedded Systems, Microcontrollers, and Low-Level Programming
--⚙️ Automation, Control Systems, and PID Controllers
--💻 C++, Python, Java, JavaScript, HTML, CSS
--🐍 Python automation, data analysis, and scripting
--🔐 Cybersecurity, Web Security, Pentesting, and Security Research
--🐧 Linux systems, terminal workflows, and virtualized environments
--🌐 Networking and Web Protocols — HTTP/HTTPS, DNS
--🗄️ SQL and database fundamentals
--🐳 Git, GitHub, Docker, and development workflows
+<tr>
+<td>🔌</td>
+<td><strong>Embedded Systems</strong> · Microcontrollers · Low-Level Programming</td>
+</tr>
+
+<tr>
+<td>⚙️</td>
+<td><strong>Automation & Control</strong> · PID · State Machines</td>
+</tr>
+
+<tr>
+<td>💻</td>
+<td><strong>C++</strong> · Python · Java · JavaScript</td>
+</tr>
+
+<tr>
+<td>🔐</td>
+<td><strong>Cybersecurity</strong> · Pentesting · Security Research</td>
+</tr>
+
+<tr>
+<td>🐧</td>
+<td><strong>Linux</strong> · Networking · Virtualization</td>
+</tr>
+
+<tr>
+<td>🐳</td>
+<td><strong>Git</strong> · GitHub · Docker</td>
+</tr>
+</table>
 
 ---
 
-## Technologies
+<h2>Technologies</h2>
 
-### Frontend
+<h3>💻 Programming</h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+</p>
 
-### Backend
+<h3>🌐 Web</h3>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+</p>
 
+<h3>🔌 Embedded Systems</h3>
 
-### Database
+<p>
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+<p>
+<code>Microcontrollers</code> ·
+<code>GPIO</code> ·
+<code>PWM</code> ·
+<code>ADC</code> ·
+<code>Timers</code> ·
+<code>Interrupts</code>
+</p>
 
-### DevOps & Tools
+<p>
+<code>UART</code> ·
+<code>I2C</code> ·
+<code>SPI</code> ·
+<code>CAN</code> ·
+<code>Bitwise</code> ·
+<code>Memory Management</code>
+</p>
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+<h3>⚙️ Automation & Control</h3>
 
-### Cybersecurity
+<p>
+<code>PID Controllers</code> ·
+<code>Control Systems</code> ·
+<code>Process Automation</code> ·
+<code>State Machines</code>
+</p>
 
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=portswigger&logoColor=white&style=flat-square)
-![Caido](https://img.shields.io/badge/-Caido-6C47FF?logo=caido&logoColor=white&style=flat-square)
+<h3>📊 Data & Artificial Intelligence</h3>
+
+<p>
+<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
+</p>
+
+<p>
+<code>Data Analysis</code> ·
+<code>Machine Learning</code> ·
+<code>Neural Networks</code>
+</p>
+
+<h3>🐧 DevOps & Tools</h3>
+
+<p>
+<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+</p>
+
+<h3>🔐 Cybersecurity</h3>
+
+<p>
+<code>Web Security</code> ·
+<code>Pentesting</code> ·
+<code>Security Research</code> ·
+<code>Vulnerability Research</code>
+</p>
+
+<p>
+<code>HTTP/HTTPS</code> ·
+<code>DNS</code> ·
+<code>Networking</code> ·
+<code>Log Analysis</code>
+</p>
+
+---
+
+<h2>🔭 Current Focus</h2>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<b>⚡</b><br>
+Electrical<br>
+Engineering
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+
+<b>🔌</b><br>
+Embedded<br>
+Systems
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+
+<b>⚙️</b><br>
+Automation &<br>
+Control
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+
+<b>💻</b><br>
+Software &<br>
+Low-Level
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="20%">
+
+<b>🔐</b><br>
+Security &<br>
+Systems
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+Currently deepening my knowledge in:
+</p>
+
+<ul>
+<li>C++ and modern C++</li>
+<li>Data Structures & Algorithms</li>
+<li>Pointers & Memory Management</li>
+<li>Bitwise Operations</li>
+<li>Embedded Systems</li>
+<li>Microcontrollers</li>
+<li>GPIO, PWM & ADC</li>
+<li>Timers & Interrupts</li>
+<li>UART, I2C, SPI & CAN</li>
+<li>State Machines</li>
+<li>Control Systems</li>
+<li>Linux & Networking</li>
+<li>Cybersecurity & Security Research</li>
+</ul>
+
+---
+
+<h2>🚀 Projects</h2>
+
+<h3>🛡️ Network Threat Monitoring & Response</h3>
+
+<p>
+Python-based project focused on <strong>network monitoring, log analysis, anomaly detection, and automated security alerts</strong>.
+</p>
+
+<p>
+<strong>Focus:</strong> Python · Linux · Networking · Cybersecurity
+</p>
+
+<h3>⚙️ PID Process Control System</h3>
+
+<p>
+Implementation of a <strong>PID controller</strong> for automatically adjusting a process toward a desired target.
+</p>
+
+<p>
+<strong>Focus:</strong> Python · Control Systems · Automation · Electrical Engineering
+</p>
+
+---
+
+<h2>🎓 Education</h2>
+
+<p>
+<strong>Bachelor's Degree in Electrical & Electronics Engineering</strong><br>
+UNISAGRADO · 2022 — 2028
+</p>
+
+<p>
+📍 Bauru, São Paulo, Brazil
+</p>
+
+---
+
+<h2>📜 Certifications</h2>
+
+<ul>
+<li>Fundamentos de Análise de Logs para Defesa Cibernética — Red Team Leaders</li>
+<li>Segurança em Tecnologia da Informação — Fundação Bradesco</li>
+<li>Pentest — IBSEC</li>
+<li>Cibersegurança: Do 0 ao Kali Linux — Ethical Hacker</li>
+<li>Introdução ao Pentest na Prática — DESEC</li>
+</ul>
+
+---
+
+<h2>🌎 Languages</h2>
+
+<p>
+🇧🇷 <strong>Portuguese</strong> — Native<br>
+🇺🇸 <strong>English</strong> — B2<br>
+🇪🇸 <strong>Spanish</strong> — B2
+</p>
+
+---
+
+<h2>📫 Contact</h2>
+
+<p>
+<a href="mailto:luizfernandotec.link2@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
+</a>
+
+<a href="https://linkedin.com/in/luixzsantos">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
+</a>
+
+<a href="https://github.com/luixzsantos">
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+</a>
+</p>
+
+<br>
 
 <p align="center">
-  <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
+  <i>Engineering the connection between hardware, software, and security.</i>
+</p>
