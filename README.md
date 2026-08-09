@@ -272,7 +272,6 @@ Implementation of a <strong>PID controller</strong> for automatically adjusting 
 
 <p>
 <strong>Bachelor's Degree in Electrical & Electronics Engineering</strong><br>
-UNISAGRADO · 2022 — 2028
 </p>
 
 <p>
@@ -324,3 +323,6 @@ UNISAGRADO · 2022 — 2028
 <p align="center">
   <i>Engineering the connection between hardware, software, and security.</i>
 </p>
+
+<p align="center">
+  <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
