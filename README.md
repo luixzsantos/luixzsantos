@@ -1,7 +1,9 @@
 <h1 align="center">Luiz Fernando Araujo Santos</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · Linux · Cybersecurity</strong>
+  <strong>Electrical & Electronics Engineering | Embedded Systems | C++ | Python | Linux | Software Development
+
+</strong>
 </p>
 
 <p align="center">
