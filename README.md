@@ -24,7 +24,7 @@
 <h2>About me</h2>
 
 <p>
-I am an <strong>Electrical and Electronics Engineering student</strong> at UNISAGRADO, interested in the intersection between <strong>hardware and software</strong>.
+I am an <strong>Electrical and Electronics Engineering student</strong>, interested in the intersection between <strong>hardware and software</strong>.
 </p>
 
 <p>
