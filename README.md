@@ -138,7 +138,7 @@ I enjoy building practical projects, understanding how systems work internally, 
 
 ---
 
-<h2>🔭 Current Focus</h2>
+<h2>🔭 Focus</h2>
 
 <table>
 <tr>
@@ -193,11 +193,6 @@ Systems
 </table>
 
 <br>
-
-<p>
-Currently deepening my knowledge in:
-</p>
-
 
 ---
 
