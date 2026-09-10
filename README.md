@@ -46,10 +46,6 @@ I enjoy building practical projects, understanding how systems work internally, 
 <td><strong>Embedded Systems</strong> · Microcontrollers · Low-Level Programming</td>
 </tr>
 
-<tr>
-<td>⚙️</td>
-<td><strong>Automation & Control</strong> · PID · State Machines</td>
-</tr>
 
 <tr>
 <td>💻</td>
