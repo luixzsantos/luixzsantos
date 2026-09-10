@@ -198,23 +198,6 @@ Systems
 Currently deepening my knowledge in:
 </p>
 
-<ul>
-<li>C++ and modern C++</li>
-<li>Go (Golang) & Concurrency (Goroutines/Channels)</li>
-<li>TypeScript & Modern Backend Systems</li>
-<li>Data Structures & Algorithms</li>
-<li>Pointers & Memory Management</li>
-<li>Bitwise Operations</li>
-<li>Embedded Systems</li>
-<li>Microcontrollers</li>
-<li>GPIO, PWM & ADC</li>
-<li>Timers & Interrupts</li>
-<li>UART, I2C, SPI & CAN</li>
-<li>State Machines</li>
-<li>Control Systems</li>
-<li>Linux & Networking</li>
-<li>Cybersecurity & Security Research</li>
-</ul>
 
 ---
 
