@@ -128,18 +128,6 @@ I enjoy building practical projects, understanding how systems work internally, 
 <code>State Machines</code>
 </p>
 
-<h3>📊 Data & Artificial Intelligence</h3>
-
-<p>
-<img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square" />
-</p>
-
-<p>
-<code>Data Analysis</code> ·
-<code>Machine Learning</code> ·
-<code>Neural Networks</code>
-</p>
 
 <h3>🐧 DevOps & Tools</h3>
 
@@ -160,12 +148,6 @@ I enjoy building practical projects, understanding how systems work internally, 
 <code>Vulnerability Research</code>
 </p>
 
-<p>
-<code>HTTP/HTTPS</code> ·
-<code>DNS</code> ·
-<code>Networking</code> ·
-<code>Log Analysis</code>
-</p>
 
 ---
 
