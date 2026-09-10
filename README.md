@@ -214,7 +214,7 @@ Embedded C++ project focused on <strong>bare-metal firmware development, GPIO/re
 </a>
 </p>
 
-<h3>⚙️ Webhook & Notification Engine</h3>
+<h3>🔀 Webhook & Notification Engine</h3>
 
 <p>
 High-performance Go middleware designed for <strong>asynchronous message processing, Redis Streams event queuing, multi-channel alerting (Discord, Telegram, SMTP), and Clean Architecture</strong>.
