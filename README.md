@@ -251,9 +251,6 @@ Currently deepening my knowledge in:
 Go-based project focused on <strong>asynchronous message processing, Redis Streams event queuing, multi-channel alerting, and resilient backend architecture</strong>.
 </p>
 
-<p>
-<strong>Focus:</strong> Python · Linux · Networking · Cybersecurity
-</p>
 
 <h3>⚙️ PID Process Control System</h3>
 
