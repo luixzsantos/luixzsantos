@@ -247,11 +247,12 @@ High-performance Go middleware designed for <strong>asynchronous message process
 <h2>📜 Certifications</h2>
 
 <ul>
-<li>Fundamentos de Análise de Logs para Defesa Cibernética — Red Team Leaders</li>
-<li>Segurança em Tecnologia da Informação — Fundação Bradesco</li>
+<li>Introduction to Engineering with Arduino — Udemy</li>
+<li>Fundamentals of Log Analysis for Cyber Defense — Red Team Leaders</li>
+<li>Information Technology Security — Fundação Bradesco</li>
 <li>Pentest — IBSEC</li>
-<li>Cibersegurança: Do 0 ao Kali Linux — Ethical Hacker</li>
-<li>Introdução ao Pentest na Prática — DESEC</li>
+<li>Cybersecurity: From 0 to Kali Linux — Ethical Hacker</li>
+<li>Introduction to Practical Pentest — DESEC</li>
 </ul>
 
 ---
