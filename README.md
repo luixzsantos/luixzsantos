@@ -115,15 +115,6 @@ I enjoy building practical projects, understanding how systems work internally, 
 <code>Memory Management</code>
 </p>
 
-<h3>⚙️ Automation & Control</h3>
-
-<p>
-<code>PID Controllers</code> ·
-<code>Control Systems</code> ·
-<code>Process Automation</code> ·
-<code>State Machines</code>
-</p>
-
 
 <h3>🐧 DevOps & Tools</h3>
 
