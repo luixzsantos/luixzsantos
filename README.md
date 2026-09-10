@@ -230,26 +230,6 @@ High-performance Go middleware designed for <strong>asynchronous message process
 </a>
 </p>
 
-<h3>🛡️ Network Threat Monitoring & Security Alerts</h3>
-
-<p>
-Python-based security tool built for <strong>real-time network traffic inspection, log analysis, anomaly detection, and automated incident reporting</strong>.
-</p>
-
-<p>
-<strong>Focus:</strong> Python · Cybersecurity · Log Analysis · Network Security · Security Research
-</p>
-
-<h3>🎛️ PID Process Control & Automation System</h3>
-
-<p>
-Closed-loop control algorithm implementing a <strong>PID controller for real-time process stabilization, error correction, and automated system feedback loops</strong>.
-</p>
-
-<p>
-<strong>Focus:</strong> Python / C++ · Control Systems · Automation · State Machines
-</p>
-
 ---
 
 <h2>🎓 Education</h2>
