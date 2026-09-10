@@ -245,10 +245,10 @@ Currently deepening my knowledge in:
 
 <h2>🚀 Projects</h2>
 
-<h3>🛡️ Network Threat Monitoring & Response</h3>
+<h3>⚙️ Webhook & Notification Engine</h3>
 
 <p>
-Python-based project focused on <strong>network monitoring, log analysis, anomaly detection, and automated security alerts</strong>.
+Go-based project focused on <strong>asynchronous message processing, Redis Streams event queuing, multi-channel alerting, and resilient backend architecture</strong>.
 </p>
 
 <p>
