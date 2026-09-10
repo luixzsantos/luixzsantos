@@ -28,7 +28,7 @@ I am an <strong>Electrical and Electronics Engineering student</strong>, interes
 </p>
 
 <p>
-My main focus is on <strong>embedded systems, C++, automation, control systems, and low-level programming</strong>, while also exploring <strong>Python, Linux, networking, and cybersecurity</strong>.
+My main focus is on <strong>embedded systems, C++, Go, automation, control systems, and low-level programming</strong>, while also exploring <strong>TypeScript, Python, Linux, networking, and cybersecurity</strong>.
 </p>
 
 <p>
@@ -53,7 +53,7 @@ I enjoy building practical projects, understanding how systems work internally, 
 
 <tr>
 <td>💻</td>
-<td><strong>C++</strong> · Python · Java · JavaScript</td>
+<td><strong>C++</strong> · Go · TypeScript · Python · Java</td>
 </tr>
 
 <tr>
@@ -68,7 +68,7 @@ I enjoy building practical projects, understanding how systems work internally, 
 
 <tr>
 <td>🐳</td>
-<td><strong>Git</strong> · GitHub · Docker</td>
+<td><strong>Git</strong> · GitHub · Docker · Redis</td>
 </tr>
 </table>
 
@@ -80,6 +80,8 @@ I enjoy building practical projects, understanding how systems work internally, 
 
 <p>
 <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
 </p>
@@ -90,6 +92,7 @@ I enjoy building practical projects, understanding how systems work internally, 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
 </p>
 
 <h3>🔌 Embedded Systems</h3>
@@ -145,6 +148,7 @@ I enjoy building practical projects, understanding how systems work internally, 
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
 </p>
 
 <h3>🔐 Cybersecurity</h3>
@@ -227,6 +231,8 @@ Currently deepening my knowledge in:
 
 <ul>
 <li>C++ and modern C++</li>
+<li>Go (Golang) & Concurrency (Goroutines/Channels)</li>
+<li>TypeScript & Modern Backend Systems</li>
 <li>Data Structures & Algorithms</li>
 <li>Pointers & Memory Management</li>
 <li>Bitwise Operations</li>
@@ -251,6 +257,9 @@ Currently deepening my knowledge in:
 Go-based project focused on <strong>asynchronous message processing, Redis Streams event queuing, multi-channel alerting, and resilient backend architecture</strong>.
 </p>
 
+<p>
+<strong>Focus:</strong> Go · Redis Streams · Clean Architecture · Async Systems
+</p>
 
 <h3>⚙️ PID Process Control System</h3>
 
@@ -322,3 +331,4 @@ Implementation of a <strong>PID controller</strong> for automatically adjusting 
 
 <p align="center">
   <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
+</p>
