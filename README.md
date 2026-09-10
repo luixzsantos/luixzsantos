@@ -198,24 +198,56 @@ Systems
 
 <h2>🚀 Projects</h2>
 
+<h3>🔌 Microcontroller Firmware & Peripherals Testbed</h3>
+
+<p>
+Embedded C++ project focused on <strong>bare-metal firmware development, GPIO/register manipulation, hardware timers, and peripheral communication protocols</strong>.
+</p>
+
+<p>
+<strong>Focus:</strong> Embedded C++ · Microcontrollers · GPIO & Timers · Low-Level Firmware
+</p>
+
+<p>
+<a href="https://github.com/luixzsantos/test1-microcontroller">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+
 <h3>⚙️ Webhook & Notification Engine</h3>
 
 <p>
-Go-based project focused on <strong>asynchronous message processing, Redis Streams event queuing, multi-channel alerting, and resilient backend architecture</strong>.
+High-performance Go middleware designed for <strong>asynchronous message processing, Redis Streams event queuing, multi-channel alerting (Discord, Telegram, SMTP), and Clean Architecture</strong>.
 </p>
 
 <p>
-<strong>Focus:</strong> Go · Redis Streams · Clean Architecture · Async Systems
-</p>
-
-<h3>⚙️ PID Process Control System</h3>
-
-<p>
-Implementation of a <strong>PID controller</strong> for automatically adjusting a process toward a desired target.
+<strong>Focus:</strong> Go · Redis Streams · Asynchronous Systems · Clean Architecture
 </p>
 
 <p>
-<strong>Focus:</strong> Python · Control Systems · Automation · Electrical Engineering
+<a href="https://github.com/luixzsantos/notification-engine">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+
+<h3>🛡️ Network Threat Monitoring & Security Alerts</h3>
+
+<p>
+Python-based security tool built for <strong>real-time network traffic inspection, log analysis, anomaly detection, and automated incident reporting</strong>.
+</p>
+
+<p>
+<strong>Focus:</strong> Python · Cybersecurity · Log Analysis · Network Security · Security Research
+</p>
+
+<h3>🎛️ PID Process Control & Automation System</h3>
+
+<p>
+Closed-loop control algorithm implementing a <strong>PID controller for real-time process stabilization, error correction, and automated system feedback loops</strong>.
+</p>
+
+<p>
+<strong>Focus:</strong> Python / C++ · Control Systems · Automation · State Machines
 </p>
 
 ---
