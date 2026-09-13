@@ -1,5 +1,14 @@
 <h1 align="center">Luiz Fernando Araujo Santos</h1>
+<br>
 
+<p align="center">
+  <i>Engineering the connection between hardware and software.</i>
+</p>
+
+<p align="center">
+  <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
+</p>
+<br>
 <p align="center">
   <strong>Electrical & Electronics Engineering</strong> ·
   <strong>Embedded Systems</strong> ·
@@ -300,12 +309,4 @@ A Python tool for <strong>PDF manipulation</strong>.
 </a>
 </p>
 
-<br>
 
-<p align="center">
-  <i>Engineering the connection between hardware and software.</i>
-</p>
-
-<p align="center">
-  <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
-</p>
