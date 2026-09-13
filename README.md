@@ -1,294 +1,63 @@
-<h1 align="center">Luiz Fernando Araujo Santos</h1>
-
-<p align="center">
-  <strong>Electrical & Electronics Engineering</strong> · 
-  <strong>Embedded Systems</strong> · 
-  <strong>Automation</strong> · 
-  <strong>Cybersecurity</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:luizfernandotec.link2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/luixzsantos">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/luixzsantos">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2>About me</h2>
-
-<p>
-I am an <strong>Electrical and Electronics Engineering student</strong>, interested in the intersection between <strong>hardware and software</strong>.
-</p>
-
-<p>
-My main focus is on <strong>embedded systems, C++, Go, automation, control systems, and low-level programming</strong>, while also exploring <strong>TypeScript, Python, Linux, networking, and cybersecurity</strong>.
-</p>
-
-<p>
-I enjoy building practical projects, understanding how systems work internally, and continuously improving my knowledge through hands-on experimentation.
-</p>
-
-<table>
-<tr>
-<td>⚡</td>
-<td><strong>Electrical & Electronics Engineering</strong></td>
-</tr>
-
-<tr>
-<td>🔌</td>
-<td><strong>Embedded Systems</strong> · Microcontrollers · Low-Level Programming</td>
-</tr>
-
-
-<tr>
-<td>💻</td>
-<td><strong>C++</strong> · Go · TypeScript · Python · Java</td>
-</tr>
-
-<tr>
-<td>🔐</td>
-<td><strong>Cybersecurity</strong> · Pentesting · Security Research</td>
-</tr>
-
-<tr>
-<td>🐧</td>
-<td><strong>Linux</strong> · Networking · Virtualization</td>
-</tr>
-
-<tr>
-<td>🐳</td>
-<td><strong>Git</strong> · GitHub · Docker · Redis</td>
-</tr>
-</table>
-
----
-
-<h2>Technologies</h2>
-
-<h3>💻 Programming</h3>
-
-<p>
-<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
-</p>
-
-<h3>🌐 Web</h3>
-
-<p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
-</p>
-
-<h3>🔌 Embedded Systems</h3>
-
-<p>
-<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
-</p>
-
-<p>
-<code>Microcontrollers</code> ·
-<code>GPIO</code> ·
-<code>PWM</code> ·
-<code>ADC</code> ·
-<code>Timers</code> ·
-<code>Interrupts</code>
-</p>
-
-<p>
-<code>UART</code> ·
-<code>I2C</code> ·
-<code>SPI</code> ·
-<code>CAN</code> ·
-<code>Bitwise</code> ·
-<code>Memory Management</code>
-</p>
-
-
-<h3>🐧 DevOps & Tools</h3>
-
-<p>
-<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
-<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square" />
-</p>
-
-<h3>🔐 Cybersecurity</h3>
-
-<p>
-<code>Web Security</code> ·
-<code>Pentesting</code> ·
-<code>Security Research</code> ·
-<code>Vulnerability Research</code>
-</p>
-
-
----
-
-<h2>🔭 Focus</h2>
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-<b>⚡</b><br>
-Electrical<br>
-Engineering
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-<b>🔌</b><br>
-Embedded<br>
-Systems
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-<b>⚙️</b><br>
-Automation &<br>
-Control
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-<b>💻</b><br>
-Software &<br>
-Low-Level
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="20%">
-
-<b>🔐</b><br>
-Security &<br>
-Systems
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<h2>🚀 Projects</h2>
-
-<h3>🔌 Microcontroller Firmware & Peripherals Testbed</h3>
-
-<p>
-Embedded C++ project focused on <strong>bare-metal firmware development, GPIO/register manipulation, hardware timers, and peripheral communication protocols</strong>.
-</p>
-
-<p>
-<strong>Focus:</strong> Embedded C++ · Microcontrollers · GPIO & Timers · Low-Level Firmware
-</p>
-
-<p>
-<a href="https://github.com/luixzsantos/test1-microcontroller">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-</p>
-
-<h3>🔀 Webhook & Notification Engine</h3>
-
-<p>
-High-performance Go middleware designed for <strong>asynchronous message processing, Redis Streams event queuing, multi-channel alerting (Discord, Telegram, SMTP), and Clean Architecture</strong>.
-</p>
-
-<p>
-<strong>Focus:</strong> Go · Redis Streams · Asynchronous Systems · Clean Architecture
-</p>
-
-<p>
-<a href="https://github.com/luixzsantos/notification-engine">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-</p>
-
----
-
-<h2>🎓 Education</h2>
-
-<p>
-<strong>Bachelor's Degree in Electrical & Electronics Engineering</strong><br>
-</p>
-
-<p>
-📍 Bauru, São Paulo, Brazil
-</p>
-
----
-
-<h2>📜 Certifications</h2>
-
-<ul>
-<li>Introduction to Engineering with Arduino — Udemy</li>
-<li>Fundamentals of Log Analysis for Cyber Defense — Red Team Leaders</li>
-<li>Information Technology Security — Fundação Bradesco</li>
-<li>Pentest — IBSEC</li>
-<li>Cybersecurity: From 0 to Kali Linux — Ethical Hacker</li>
-<li>Introduction to Practical Pentest — DESEC</li>
-</ul>
-
----
-
-<h2>🌎 Languages</h2>
-
-<p>
-🇧🇷 <strong>Portuguese</strong> — Native<br>
-🇺🇸 <strong>English</strong> — B2<br>
-🇪🇸 <strong>Spanish</strong> — B2
-</p>
-
----
-
-<h2>📫 Contact</h2>
-
-<p>
-<a href="mailto:luizfernandotec.link2@gmail.com">
-<img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
-</a>
-
-<a href="https://linkedin.com/in/luixzsantos">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" />
-</a>
-
-<a href="https://github.com/luixzsantos">
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-</a>
-</p>
-
-<br>
-
-<p align="center">
-  <i>Engineering the connection between hardware, software, and security.</i>
-</p>
-
-<p align="center">
-  <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
-</p>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:6d28d9&text=LUIZ%20FERNANDO%20SANTOS&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electrical%20%26%20Electronics%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Security&descAlignY=58&descSize=18"/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=Bridging+hardware%2C+software+and+security;C%2B%2B+%7C+Go+%7C+Python+%7C+Embedded+Systems;Building+low-level+firmware+%26+backend+systems;Studying+offensive+%26+defensive+security"/> <a href="https://github.com/luixzsantos"> <img src="https://komarev.com/ghpvc/?username=luixzsantos&style=flat-square&color=6d28d9&label=Profile+views"/> </a> <a href="https://www.linkedin.com/in/luixzsantos"> <img src="https://img.shields.io/badge/LinkedIn-connect-6d28d9?style=flat-square&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/luixzsantos?tab=repositories"> <img src="https://img.shields.io/badge/29-repositories-6d28d9?style=flat-square&logo=github&logoColor=white"/> </a> </div> <br/>
+🧭 About me
+Electrical & Electronics Engineering student focused on the intersection of hardware and software. Main interests: embedded systems, C++, Go, automation and control systems, with a growing focus on cybersecurity and pentesting — plus TypeScript, Python and Linux/networking on the side.
+
+I like building things that actually run on real hardware, understanding systems down to the register level, and learning by breaking (and fixing) things.
+
+📍  Bauru, São Paulo, Brazil
+🎓  B.Eng. Electrical & Electronics Engineering
+🌎  Português (native) · English (B2) · Español (B2)
+<br/>
+🧩 Stack
+<table> <tr> <td valign="top" width="50%">
+⚡ Embedded & Low-Level <br/> <img src="https://skillicons.dev/icons?i=cpp,c,arduino"/> <br/> GPIO · PWM · ADC · Timers · Interrupts · UART · I2C · SPI · CAN
+
+</td> <td valign="top" width="50%">
+💻 Languages & Backend <br/> <img src="https://skillicons.dev/icons?i=go,python,java,ts,js,nodejs"/> <br/> Go · Python · Java · TypeScript · JavaScript · Node.js
+
+</td> </tr> <tr> <td valign="top" width="50%">
+🐧 Infra & Tools <br/> <img src="https://skillicons.dev/icons?i=linux,docker,redis,postgres,git,github,vscode"/> <br/> Linux · Docker · Redis · PostgreSQL · Git · GitHub · VS Code
+
+</td> <td valign="top" width="50%">
+🔐 Security <br/> <img src="https://skillicons.dev/icons?i=kali"/> <br/> Pentesting · Vulnerability Research · Log Analysis for Cyber Defense
+
+</td> </tr> </table> <br/>
+🔭 Focus pipeline
+<div align="center">
+⚡ Electrical Engineering → 🔌 Embedded Systems → ⚙️ Automation & Control → 💻 Software & Low-Level → 🔐 Security & Systems
+
+</div> <br/>
+🚀 Featured projects
+<table> <tr> <td width="50%">
+🔀 notification-engine <br/> High-performance Go middleware for asynchronous multi-channel notifications — Redis Streams, Clean Architecture, retry/DLQ. <br/> Go Redis PostgreSQL Docker
+
+</td> <td width="50%">
+🔌 Microcontroller Firmware & Peripherals Testbed <br/> Bare-metal embedded C++ — GPIO/register manipulation, hardware timers and peripheral communication protocols. <br/> C++ Embedded GPIO/Timers
+
+</td> </tr> <tr> <td width="50%">
+🛡️ system-security-in-Python <br/> Sec Defense System — monitors, detects and responds to threats in real time via automation and intelligent analysis. <br/> Python Security
+
+</td> <td width="50%">
+🔍 Security-Analysis-Engine <br/> Modular, service-oriented platform that processes logs, network files and source code to detect vulnerabilities. <br/> Python Security
+
+</td> </tr> <tr> <td width="50%">
+⚙️ pid-system-in-Python <br/> PID controller simulation — Proportional, Integral and Derivative actions combined to reach a target setpoint. <br/> Python Control Systems
+
+</td> <td width="50%">
+📡 radiohead-creep-lcd <br/> Arduino wireless communication project with LCD display output. <br/> C++ Arduino
+
+</td> </tr> </table> <br/>
+📜 Certifications
+Introduction to Engineering with Arduino — Udemy
+Fundamentals of Log Analysis for Cyber Defense — Red Team Leaders
+Information Technology Security — Fundação Bradesco
+Pentest — IBSEC
+Cybersecurity: From 0 to Kali Linux — Ethical Hacker
+Introduction to Practical Pentest — DESEC
+<br/>
+📊 GitHub stats
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=luixzsantos&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC&icon_color=C084FC"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixzsantos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C084FC"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=luixzsantos&theme=tokyonight&hide_border=true&background=0d1117&ring=C084FC&fire=C084FC"/> </div> <br/>
+🌎 Connect
+<div align="center"> <a href="https://github.com/luixzsantos"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/luixzsantos"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div> <br/> <div align="center">
+🔐 Engineering the connection between hardware, software and security.
+</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f0c29,50:302b63,100:6d28d9"/>
