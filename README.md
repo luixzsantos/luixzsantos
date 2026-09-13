@@ -1,20 +1,9 @@
 <h1 align="center">Luiz Fernando Araujo Santos</h1>
-<br>
-
-<p align="center">
-  <i>Engineering the connection between hardware and software.</i>
-</p>
-
-<p align="center">
-  <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
-</p>
-<br>
 <p align="center">
   <strong>Electrical & Electronics Engineering</strong> ·
   <strong>Embedded Systems</strong> ·
   <strong>Automation</strong>
 </p>
-
 <p align="center">
   <a href="mailto:luizfernandotec.link2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -26,6 +15,18 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+<br>
+
+<p align="center">
+  <i>Engineering the connection between hardware and software.</i>
+</p>
+
+<p align="center">
+  <img src="https://soundboardguys-storage.nyc3.cdn.digitaloceanspaces.com/website-images/blog-images/skeleton-banging-shield-animation.gif" width="300" alt="Skeleton Banging Shield Meme"><br>
+</p>
+<br>
+
+
 
 ---
 
